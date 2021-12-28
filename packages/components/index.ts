@@ -168,3 +168,5 @@ export default {
   install,
   version,
 }
+
+import { IxAutoComplete } from '@idux/components/auto-complete'

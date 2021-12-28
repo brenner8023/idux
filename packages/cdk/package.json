@@ -26,8 +26,8 @@
   },
   "license": "MIT",
   "author": "IDuxFE<idux.feteam@gmail.com>",
-  "main": "./index.js",
-  "module": "./index.js",
+  "main": "./index.ts",
+  "module": "./index.ts",
   "typings": "./index.d.ts",
   "scripts": {},
   "dependencies": {

@@ -156,3 +156,5 @@ declare module 'vue' {
 }
 
 export {}
+
+import { IxAutoComplete } from '@idux/components/auto-complete'
